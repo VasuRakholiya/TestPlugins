@@ -1,8 +1,7 @@
-{
-  "name": "Vasu Repo",
-  "description": "My plugins",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/VasuRakholiya/TestPlugins/master/plugins.json"
-  ]
-}
+[
+  {
+    "name": "Vasu Repo",
+    "url": "https://raw.githubusercontent.com/VasuRakholiya/TestPlugins/master/plugins.json",
+    "version": 1
+  }
+]
