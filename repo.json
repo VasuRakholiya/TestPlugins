@@ -1,6 +1,6 @@
 {
   "name": "Vasu Repo",
-  "description": "My custom plugins",
+  "description": "My plugins",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/VasuRakholiya/TestPlugins/master/plugins.json"
